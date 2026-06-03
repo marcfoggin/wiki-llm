@@ -1,0 +1,11 @@
+# NavTree build configuration
+# .navtree/ is a sibling of wiki/, so vault_path points to the sibling
+
+vault_path = "../wiki"
+output_dir = "output"
+
+# Link prefixes to skip (not tree nodes)
+skip_prefixes = ["Sources/", "source"]
+
+# Notes to exclude from roots (by filename stem)
+exclude_roots = ["log"]

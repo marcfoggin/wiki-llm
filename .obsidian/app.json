@@ -1,0 +1,10 @@
+{
+  "useMarkdownLinks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "wiki",
+  "attachmentFolderPath": "raw",
+  "showFrontmatter": true,
+  "defaultViewMode": "preview",
+  "useTab": true,
+  "tabSize": 2
+}

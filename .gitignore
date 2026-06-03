@@ -1,0 +1,13 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*
+!.obsidian/plugins/homepage/
+.obsidian/themes/
+
+# OS
+.DS_Store
+Thumbs.db
+example/
+.claude/
