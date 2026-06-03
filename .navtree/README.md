@@ -74,8 +74,8 @@ Written by AI agents in the vault root (parent of `.navtree/`) whenever they
 make structural changes to multi-position content. The build script validates
 entries and archives them after a successful build.
 
-See [docs/ai-agent-protocol.md](docs/ai-agent-protocol.md) for the full
-protocol, rules per change type, and a ready-to-use system prompt snippet.
+The coordination rules are defined in `CLAUDE.md` (in the vault root)
+under the "NavTree vault coordination" section.
 
 ## Configuration
 
@@ -97,37 +97,20 @@ a `##` heading becomes a root in the tree.
 The build runs automatically when vault markdown files change:
 
 ```
-push to wiki-llm/wiki/**/*.md
+push to wiki-llm/wiki/**/*.md or wiki-llm/.navtree/**
         │
-        └─ .github/workflows/build.yml
+        └─ PlateauPerspectives/.github  (org-level workflow repo)
+               workflows/build.yml
                │
-               ├─ cd wiki-llm/wiki/.navtree
+               ├─ cd wiki-llm/.navtree
                ├─ python build_navtree.py
                ├─ commit output/ (including redirects.toml)
                └─ archive vault-changelog.toml entries
 ```
 
-The workflow file should be placed at the repo root:
-`.github/workflows/build.yml` (in PlateauPerspective, not inside `.navtree/`).
-
-## Format details
-
-See [docs/navtree-v2-format.md](docs/navtree-v2-format.md) for the full
-specification including:
-
-- `index.toml` schema (metadata, media references, media config overrides)
-- `content.md` and/or `content.json` — either format is V2-compliant
-- Locale files for multilingual content
-- Audio timing files (generic and verse-based)
-- Comparison with v1 (navtree-app) and bibel-wiki formats
-
-## Converters (planned)
-
-- **V1 JSON to V2** — convert navtree-app ContentBlock JSON files into the
-  v2 folder hierarchy with `index.toml` + `content.md`
-- **V2 markdown to JSON** — convert `content.md` into `content.json`
-  (ContentBlock[] format) for apps that prefer pre-structured content
-- **V2 JSON to markdown** — convert `content.json` into `content.md`
+The workflow lives in the org-level
+[PlateauPerspectives/.github](https://github.com/PlateauPerspectives/.github)
+repo, not inside this repository.
 
 ## Structure
 
@@ -136,11 +119,5 @@ specification including:
 ├── build_navtree.py         # Main build script (vault → v2)
 ├── build.toml               # Build configuration
 ├── README.md                # This file
-├── output/                  # Generated v2 tree
-├── docs/
-│   ├── navtree-v2-format.md       # Format specification
-│   ├── navtree-app-v2-upgrade.md  # Migration guide for navtree-app
-│   └── ai-agent-protocol.md       # Agent coordination protocol
-└── .github/
-    └── workflows/build.yml        # CI workflow (copy to repo root .github/)
+└── output/                  # Generated v2 tree
 ```

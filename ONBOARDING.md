@@ -32,7 +32,7 @@ Your username is what the project maintainer needs to give you access. Send it t
 This downloads the wiki to your computer.
 
 1. In GitHub Desktop: **File** > **Clone repository**
-2. Find `larsgson/wiki-llm` in the list (it appears once the maintainer has given you access), or paste the URL: `https://github.com/larsgson/wiki-llm`
+2. Find `PlateauPerspectives/wiki-llm` in the list (it appears once the maintainer has given you access), or paste the URL: `https://github.com/PlateauPerspectives/wiki-llm`
 3. Choose where to save it on your computer (remember this location — you'll need it for Obsidian)
 4. Click **Clone**
 
@@ -114,7 +114,6 @@ Before starting new work, get the latest changes:
 ## Getting Help
 
 - Read `CLAUDE.md` for all wiki conventions and workflows
-- Read `ROADMAP.md` for the project plan
 - Check `wiki/index.md` to see what already exists
 - Ask the project maintainer if you get stuck
 
@@ -140,7 +139,7 @@ Set up SSH keys (so GitHub knows it's you):
 
 Clone the repo:
 ```
-git clone git@github.com:larsgson/wiki-llm.git
+git clone git@github.com:PlateauPerspectives/wiki-llm.git
 cd wiki-llm
 ```
 
@@ -159,4 +158,4 @@ cd wiki-llm
 | Push to GitHub (first time) | `git push -u origin yourname/topic` |
 | Push to GitHub (after first time) | `git push` |
 
-After pushing, open a pull request on [github.com/larsgson/wiki-llm](https://github.com/larsgson/wiki-llm).
+After pushing, open a pull request on [github.com/PlateauPerspectives/wiki-llm](https://github.com/PlateauPerspectives/wiki-llm).
