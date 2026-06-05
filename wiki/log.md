@@ -10,6 +10,24 @@ Append-only record of all ingest and update operations.
 
 ---
 
+## 2026-06-05 — Ingest Melba Padilla Maggay Integral Mission PDF
+
+**Source:** Integral Mission: Biblical Foundations (Melba Padilla Maggay, Micah Global)
+
+**URL:** https://d1c2gz5q23tkk0.cloudfront.net/shrine_store/uploads/networks/1730/page_customizables/385755/849087a709cec86980fc42f3a1b78e63.pdf_1662647840
+
+**Pages created (1):**
+- [[Sources/maggay-integral-mission-biblical-foundations]] — Detailed source notes on Maggay's biblical theological case for integral mission
+
+**Pages updated (1):**
+- [[Five Marks of Mission/five-marks-of-mission]] — Added Maggay resource with emphasis on biblical foundations, sacred-secular dualism challenge, and integration of proclamation + social action
+
+**Other:** source-registry.md updated
+
+**Key integration:** Maggay provides crucial theological grounding for integral mission across all five marks. Her emphasis on the biblical inseparability of proclamation and justice, individual and systemic transformation, and the inadequacy of sacred-secular dualism strengthens the theological foundation of the entire Five Marks framework. Her work complements Wright's by providing deeper biblical-theological reasoning for why the marks must be integrated.
+
+---
+
 ## 2026-06-05 — Ingest Chris Wright Five Marks of Mission PDF
 
 **Source:** Five Marks of Mission: Making God's Mission Ours (Chris Wright, 2015, Micah Global M-Series)
