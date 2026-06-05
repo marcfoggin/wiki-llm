@@ -26,6 +26,7 @@ Tracks all external URLs that have been fetched and summarised into wiki pages. 
 
 | URL | Status | Method | Last Fetched | Source Page | Pages Updated | Focus / Notes |
 |-----|--------|--------|-------------|-------------|---------------|---------------|
+| https://d1c2gz5q23tkk0.cloudfront.net/shrine_store/uploads/networks/1730/page_customizables/385755/01bdf534621b9b29876c7ef9af95c1a1.pdf_1665392330 | done | WebFetch | 2026-06-05 | wright-five-marks-of-mission | five-marks-of-mission, proclaiming-the-good-news, discipleship-and-formation, loving-service, transforming-society, stewarding-creation | God's mission framework, Christ's Lordship as integrating center, three focal points |
 | https://doughnuteconomics.org/about-doughnut-economics | done | WebFetch | 2026-05-22 | doughnut-economics | environment-and-economics | Full framework: social foundation + ecological ceiling |
 | https://creationcare.org/who-we-are/beliefs.html | done | WebFetch | 2026-05-22 | een-creation-care-beliefs | creation-care | Biblical imperative, Great Commandments, pollution & poor |
 | https://lausanne.org/report/sustainable/creation-care | done | WebFetch | 2026-05-22 | lausanne-creation-care | creation-care, stewarding-creation | Integral mission, planetary boundaries, case studies |

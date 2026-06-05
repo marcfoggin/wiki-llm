@@ -10,7 +10,9 @@ last_updated: 2026-05-22
 
 The fourth mark of mission: to seek to transform unjust structures of society. This moves beyond individual acts of service to address the systems that produce and sustain poverty, exclusion, and environmental destruction. It asks not only "how do we help?" but "why is this happening?"
 
-In pastoral and mountain contexts, systemic injustice includes land dispossession, exclusion from governance, sedentarisation policies, and development models that ignore mobility. The Five Marks framework insists that challenging these structures is integral to Christian mission, not an optional extra.
+Chris Wright grounds justice in Christ's role: we "seek justice" because "the Lord Jesus Christ is the judge of all the earth." Justice is one of two marks grouped as **serving society** (together with compassion). The judge who will ultimately set all things right calls believers to seek justice now—challenging structures that perpetuate oppression. Wright emphasizes that this is not an add-on to mission but integral to the Five Marks framework itself, rooted in Christ's Lordship.
+
+In pastoral and mountain contexts, systemic injustice includes land dispossession, exclusion from governance, sedentarisation policies, and development models that ignore mobility. The Five Marks framework insists that challenging these structures is integral to Christian mission, not an optional extra. Justice work flows from the same commitment to Christ's Lordship that animates evangelism, teaching, service, and creation care.
 
 ## Key Claims
 
@@ -31,6 +33,7 @@ In pastoral and mountain contexts, systemic injustice includes land dispossessio
 
 ## Sources
 
+- [Five Marks of Mission: Making God's Mission Ours (Chris Wright)](https://d1c2gz5q23tkk0.cloudfront.net/shrine_store/uploads/networks/1730/page_customizables/385755/01bdf534621b9b29876c7ef9af95c1a1.pdf_1665392330) — Grounds justice in Christ's role as judge of all the earth. Groups justice with compassion as the mark of serving society. Argues that justice is rooted in Christ's Lordship and is integral to mission, not optional. [[Sources/wright-five-marks-of-mission|Full notes]]
 - [UN Sustainable Development Goals](https://sdgs.un.org/goals) — 17 goals adopted by all UN Member States in 2015 as part of the 2030 Agenda, representing an urgent call to end poverty and deprivation while advancing health, education, economic growth, and environmental protection.
 - [Thinking Biblically about Systemic Injustice (Thaddeus Williams)](https://www.biola.edu/blogs/good-book-blog/2021/thinking-biblically-about-systemic-injustice) — Argues that Scripture shows sin can be expressed through systems, but cautions against automatically equating all disparity with discrimination. Encourages critical examination of evidence to identify actual injustice. [[Sources/williams-systemic-injustice|Full notes]]
 - [Journey Towards Justice: Personal Encounters in the Global South](https://www.livedtheology.org/resources/recommended-resources-journey-toward-justice/) — Book exploring justice through personal encounters in development contexts.

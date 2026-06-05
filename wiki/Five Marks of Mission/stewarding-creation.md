@@ -9,7 +9,7 @@ last_updated: 2026-05-22
 ## Overview
 
 The fifth mark of mission: to strive to safeguard the integrity of creation, and sustain and renew the life of the earth. This mark bridges the Five Marks of Mission with the Creation Care topic — it grounds environmental responsibility within the theological framework of mission.
-
+Chris Wright connects creation care to Christ's Lordship: we handle and care for creation because "[creation] belongs to the Lord Jesus Christ by right of creation and redemption." Creation care stands alone as the third focal point of mission (distinct from building the church and serving society) yet is held together with the other four marks through affirmation of Christ's Lordship over all creation. Wright's framework integrates the first great commission given to humanity in Genesis 1-2—to steward creation—within the contemporary Great Commission to make disciples.
 Stewarding creation is not an add-on to the other four marks but integral to them. Environmental degradation harms the poor (mark 3), sustains injustice (mark 4), and undermines the conditions for human flourishing that proclamation (mark 1) and discipleship (mark 2) address. The Lausanne Movement argues that failing to proclaim Christ's lordship over creation undermines the credibility of Christian witness.
 
 ## Key Claims
@@ -30,6 +30,7 @@ Stewarding creation is not an add-on to the other four marks but integral to the
 
 ## Sources
 
+- [Five Marks of Mission: Making God's Mission Ours (Chris Wright)](https://d1c2gz5q23tkk0.cloudfront.net/shrine_store/uploads/networks/1730/page_customizables/385755/01bdf534621b9b29876c7ef9af95c1a1.pdf_1665392330) — Grounds creation care in Christ's Lordship by creation and redemption. Argues that creation care stands as the third focal point of mission. Integrates the Genesis creation mandate with the Great Commission. [[Sources/wright-five-marks-of-mission|Full notes]]
 - [Creation Care — Lausanne Movement (Dave Bookless, et al.)](https://lausanne.org/report/sustainable/creation-care) — Argues caring for creation is inseparable from the gospel; authentic discipleship means Christ's lordship over all aspects of life including creation. The church must integrate spiritual, social, and ecological dimensions of mission. [[Sources/lausanne-creation-care|Full notes]]
 - [Evangelical Environmental Network](https://creationcare.org/) — Organisation advocating creation care as biblical imperative, with resources on health, energy, and environmental protection.
 - [Laudato Si' (Pope Francis)](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) — Papal encyclical on care for our common home, integrating ecology, justice, and faith. [[Sources/laudato-si|Full notes]]

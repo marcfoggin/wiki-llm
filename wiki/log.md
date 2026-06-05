@@ -1,12 +1,35 @@
 ---
 title: "Operation Log"
 type: log
-last_updated: 2026-05-23
+last_updated: 2026-06-05
 ---
 
 # Operation Log
 
 Append-only record of all ingest and update operations.
+
+---
+
+## 2026-06-05 — Ingest Chris Wright Five Marks of Mission PDF
+
+**Source:** Five Marks of Mission: Making God's Mission Ours (Chris Wright, 2015, Micah Global M-Series)
+
+**URL:** https://d1c2gz5q23tkk0.cloudfront.net/shrine_store/uploads/networks/1730/page_customizables/385755/01bdf534621b9b29876c7ef9af95c1a1.pdf_1665392330
+
+**Pages created (1):**
+- [[Sources/wright-five-marks-of-mission]] — Detailed source notes on Wright's theological explication of the Five Marks framework
+
+**Pages updated (6):**
+- [[Five Marks of Mission/five-marks-of-mission]] — Added Wright's framework: God's mission as foundation, three focal points (building church, serving society, caring for creation), Christ's Lordship as integrating center
+- [[Five Marks of Mission/proclaiming-the-good-news]] — Added Wright's definition of evangelism as 'gospelling' the whole biblical story; linked to Christ's Lordship
+- [[Five Marks of Mission/discipleship-and-formation]] — Added Wright's connection of teaching to Great Commission and Christ's Lordship; formation as submission to Christ
+- [[Five Marks of Mission/loving-service]] — Added Wright's grounding of compassion in Christ's example; grouped with justice as serving society
+- [[Five Marks of Mission/transforming-society]] — Added Wright's grounding of justice in Christ's role as judge; integral to mission
+- [[Five Marks of Mission/stewarding-creation]] — Added Wright's grounding of creation care in Christ's Lordship; third focal point of mission
+
+**Other:** index.md and source-registry.md updated
+
+**Key integration:** Wright provides authoritative theological grounding for the Five Marks framework. His insight on three focal points (church, society, creation) and Christ's Lordship as the integrating center enriches all five subtopic pages and clarifies the framework's holistic structure.
 
 ---
 

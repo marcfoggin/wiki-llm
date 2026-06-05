@@ -31,6 +31,7 @@
 - [[Sources/doughnut-economics]] — Doughnut Economics framework (Kate Raworth)
 - [[Sources/ostrom-eight-rules-commons]] — Elinor Ostrom's 8 rules for managing the commons
 - [[Sources/lausanne-creation-care]] — Lausanne Movement on creation care and the gospel
+- [[Sources/wright-five-marks-of-mission]] — Chris Wright's theological explication of the Five Marks
 - [[Sources/een-creation-care-beliefs]] — Evangelical Environmental Network beliefs
 - [[Sources/undp-indigenous-knowledge-climate]] — UNDP on indigenous knowledge and climate change
 - [[Sources/fao-pastoralist-knowledge-hub]] — FAO Pastoralist Knowledge Hub
