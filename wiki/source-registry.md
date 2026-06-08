@@ -64,6 +64,7 @@ Tracks all external URLs that have been fetched and summarised into wiki pages. 
 | https://iyrp.info/ | done | WebFetch | 2026-05-22 | iyrp-2026 | nomadic-pastoralism | UN Year 2026, awareness & policy advocacy |
 | https://lausanne.org/report/just | done | WebFetch | 2026-05-22 | lausanne-what-is-just | transforming-society | Justice integral to mission, global perspectives |
 | https://www.rangelandsdata.org/atlas/ | done | WebFetch | 2026-05-22 | rangelands-atlas | biodiversity-and-rangelands | FAO/IUCN/UNEP/WWF spatial data on rangelands |
+| https://report.territoriesoflife.org/national-and-regional-analysis/west-central-asia/ | done | WebFetch | 2026-06-04 | territories-of-life-west-central-asia | local-indigenous-knowledge, nomadic-pastoralism, managing-common-resources, the-need-for-mobility, culture-and-identity, providing-services-for-nomads, biodiversity-and-rangelands, protected-areas | Comprehensive ICCA Consortium report; 16 case studies; historical perspectives; transboundary pastoral territories; 5 biodiversity hotspots; ICCA-protected area overlap; co-management models |
 | https://www.practicingtheway.org/ | done | curl+meta | 2026-05-22 | — | discipleship-and-formation | Spiritual formation practices; one-liner sufficient |
 | https://biologos.org/ | failed | — | 2026-05-22 | — | stewarding-creation | 403 on WebFetch; org homepage, one-liner sufficient |
 | https://jri.org.uk/ | done | curl+meta | 2026-05-22 | — | stewarding-creation | John Ray Initiative; science-faith-environment |

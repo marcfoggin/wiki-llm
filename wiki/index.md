@@ -49,6 +49,7 @@
 - [[Sources/wright-jesus-plant-tree]] — Jesus is Coming, Plant a Tree (N.T. Wright)
 - [[Sources/stott-evangelism-neighbour-love]] — Evangelism vs Neighbor-Love (John Stott)
 - [[Sources/icca-consortium]] — ICCA Consortium — Territories of Life
+- [[Sources/territories-of-life-west-central-asia]] — Territories of Life: West and Central Asia & the Caucasus (ICCA Consortium report)
 - [[Sources/rogers-five-reasons-serve]] — 5 Reasons Why We Love Our Neighbour and Serve
 - [[Sources/ten-facts-rangelands]] — Ten interesting facts about rangelands (ILRI)
 - [[Sources/iyrp-2026]] — International Year of Rangelands and Pastoralists 2026
