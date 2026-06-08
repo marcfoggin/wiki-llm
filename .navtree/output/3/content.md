@@ -43,6 +43,7 @@ In the context of climate change and increasing environmental pressures, pastora
 
 ## Key Resources
 
+- [Territories of Life: West and Central Asia & the Caucasus](https://report.territoriesoflife.org/national-and-regional-analysis/west-central-asia/) — Comprehensive ICCA Consortium report on indigenous and local communities' conserved territories across the region, including 6 pastoral case studies (Iran, Turkey, Kyrgyzstan, Tajikistan), historical perspective on 12,000-year evolution of nomadism, Soviet sedentarisation impacts, border disruption of transboundary territories, and management of commons through al-hima, qoroq, and sacred site systems. Documents threats (armed conflict, infrastructure, climate change) and co-management opportunities with protected areas. [[Sources/territories-of-life-west-central-asia|Full notes]]
 - [FAO Pastoralist Knowledge Hub](https://www.fao.org/pastoralist-knowledge-hub/) — Technical repository and neutral forum centralising knowledge on pastoralism and fostering partnerships to ensure pastoral issues are integrated into global policy. [[Sources/fao-pastoralist-knowledge-hub|Full notes]]
 - [International Year of Rangelands and Pastoralists 2026](https://iyrp.info/) — Global initiative raising awareness of rangelands and pastoralist contributions. [[Sources/iyrp-2026|Full notes]]
 - [UNCCD Thematic Report on Rangelands and Pastoralists](https://www.unccd.int/resources/global-land-outlook/glo-thematic-report-rangelands-and-pastoralists) — Major report on the state of rangelands and their governance.

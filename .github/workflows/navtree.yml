@@ -23,7 +23,8 @@ jobs:
           python-version: "3.12"
 
       - name: Rebuild navtree
-        run: python .navtree/build_navtree.py
+        working-directory: .navtree
+        run: python build_navtree.py
 
       - name: Commit updated output and archive changelog
         run: |
