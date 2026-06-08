@@ -36,7 +36,18 @@ jobs:
           fi
           if git diff --cached --quiet; then
             echo "No navtree changes to commit"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "[navtree] Rebuild navigation tree"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+        id: commit
+
+      - name: Dispatch sync to stewardship-navTree
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          gh api repos/larsgson/stewardship-navTree/dispatches \
+            -f event_type=navtree-updated
+        env:
+          GH_TOKEN: ${{ secrets.NAVTREE_SYNC_TOKEN }}
