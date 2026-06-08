@@ -63,7 +63,16 @@
       "Bash(git -C /Users/larsgson/dev/bw/PlateauPerspective/wiki-llm status)",
       "Bash(git -C /Users/larsgson/dev/bw/PlateauPerspective/wiki-llm diff)",
       "Bash(git -C /Users/larsgson/dev/bw/PlateauPerspective/wiki-llm log --oneline -5)",
-      "Bash(python3 build_navtree.py)"
+      "Bash(python3 build_navtree.py)",
+      "Bash(ls -la /Users/larsgson/dev/bw/PlateauPerspective/.navtree/ 2>/dev/null)",
+      "Bash(cat /Users/larsgson/dev/bw/PlateauPerspective/.navtree/build_navtree.py 2>/dev/null | head -80)",
+      "Bash(git -C /Users/larsgson/dev/bw/PlateauPerspective/wiki-llm remote -v)",
+      "Bash(python3 -c \"import tomllib\")",
+      "Bash(mkdir -p /Users/larsgson/dev/bw/PlateauPerspective/wiki-llm/.github/workflows)",
+      "Bash(python3 .navtree/build_navtree.py)",
+      "Bash(git -C /Users/larsgson/dev/bw/PlateauPerspective/wiki-llm diff --name-only)",
+      "Bash(git -C /Users/larsgson/dev/bw/PlateauPerspective/wiki-llm status --short .navtree/)",
+      "Bash(gh run *)"
     ]
   }
 }

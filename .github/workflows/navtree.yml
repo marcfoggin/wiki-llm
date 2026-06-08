@@ -1,0 +1,42 @@
+name: Rebuild NavTree
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "wiki/**/*.md"
+      - ".navtree/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[navtree]')"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild navtree
+        run: python .navtree/build_navtree.py
+
+      - name: Commit updated output and archive changelog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .navtree/output/
+          git add vault-changelog.archive.toml || true
+          if [ -f vault-changelog.toml ]; then
+            git rm vault-changelog.toml || true
+          fi
+          if git diff --cached --quiet; then
+            echo "No navtree changes to commit"
+          else
+            git commit -m "[navtree] Rebuild navigation tree"
+            git push
+          fi
