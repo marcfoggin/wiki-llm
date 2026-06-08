@@ -1,6 +1,7 @@
 
 # Wiki Index
 
+
 ## Five Marks of Mission
 - [[Five Marks of Mission/five-marks-of-mission]] — Holistic framework: proclamation, transformation, service, justice, creation care
   - [[Five Marks of Mission/proclaiming-the-good-news]] — Evangelism
