@@ -10,7 +10,7 @@
 .DS_Store
 Thumbs.db
 example/
-output/
+/output/
 raw-private/*
 !raw-private/.gitkeep
 .claude/
