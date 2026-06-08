@@ -3,7 +3,7 @@ title: "Creation Care / Stewardship"
 type: topic
 tags: [creation-care, stewardship, environment, biodiversity, ecology]
 sources: [ClusterDocsTablesV2]
-last_updated: 2026-05-22
+last_updated: 2026-06-08
 ---
 
 ## The Big Idea
