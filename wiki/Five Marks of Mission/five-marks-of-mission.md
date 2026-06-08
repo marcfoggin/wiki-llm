@@ -3,7 +3,7 @@ title: "Five Marks of Mission"
 type: topic
 tags: [mission, faith, justice, creation-care]
 sources: [ClusterDocsTablesV2]
-last_updated: 2026-05-22
+last_updated: 2026-06-08
 ---
 
 ## The Big Idea
