@@ -3,7 +3,7 @@ title: "Redeeming All Things: Integral Mission and Creation Care"
 type: source
 tags: [mission, creation-care, theology, integral-mission]
 date: 2022
-url: https://www.micahglobal.org/page/resources-external
+url: https://d1c2gz5q23tkk0.cloudfront.net/shrine_store/uploads/networks/1730/page_customizables/385755/4d30cdb02c91720519625e9cc7739f9e.pdf_1662648122
 last_updated: 2026-06-09
 ---
 
