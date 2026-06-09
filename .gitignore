@@ -11,6 +11,5 @@
 Thumbs.db
 example/
 /output/
-raw-private/*
-!raw-private/.gitkeep
+raw-private/
 .claude/
